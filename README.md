@@ -1,6 +1,6 @@
 # shadowsocks最新地址
 
-最新地址：[portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=68249)
+最新地址：[shadowsocks](https://portal.shadowsocks.au/aff.php?aff=68249)
 
 ## shadowsocks优惠码
 
@@ -35,3 +35,33 @@
 * 20200109 又换成了：https://portal.shadowsocks.nl
 * 20200509 又换成了：https://portal.shadowsocks.nz
 * 20220909 又换成了：https://portal.shadowsocks.au
+
+
+## shadowsocks 购买
+### 说明
+$19.95 /年 大约 140¥/年
+单用户 / 2 同时在线设备
+多个节点位于：
+香港、日本、美国、欧洲和澳大利亚
+支持所有操作系统
+支持 IPv4 和 IPv6 双栈网络
+一流的安全性和加密
+每月 100GB+ 流量
+
+## 购买链接
+[点击shadowsocks购买](https://portal.shadowsocks.au/aff.php?aff=68249)
+
+## 获取订阅地址
+购买完成后，点击 左上角“产品服务”，查看订单详情，找到 “ClashX订阅”，获取地址
+
+
+## 软件安装
+### ClashX
+https://github.com/yichengchen/clashX/releases
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases
+### android
+https://github.com/Kr328/ClashForAndroid
+
+## 配置
+将订阅地址配置到clashx中
